@@ -2,5 +2,5 @@
 - 👀 I’m interested in MERN Stack and Full Stack 
 - 🌱 I’m currently learning AWS/Cloud Computing
 - 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 Mail me sahilkhandale404@gmail.com
+- 📫 Mail me sahilkhandale100@gmail.com
 - 😄 Pronouns: He/him/his
